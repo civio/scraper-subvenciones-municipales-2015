@@ -1,5 +1,7 @@
 **AVISO:** Esto está un poco manga por hombro, se hizo contrareloj y tomando bastantes atajos.
 
+Artículo relacionado: [El PP pierde cinco millones de subvención pública para sufragar la campaña electoral](http://elboenuestrodecadadia.com/2015/05/25/el-pp-pierde-cinco-millones-de-subvencion-publica-para-sufragar-la-campana-electoral/).
+
 Ficheros auxiliares:
 
 * `pobmun14.csv`: padrón municipal a 1 de Enero de 2014. Generado a partir del [fichero XLS del INE](http://www.ine.es/dynt3/inebase/es/index.html?padre=517&dh=1), enriquecido con el código de comunidad autónoma.
