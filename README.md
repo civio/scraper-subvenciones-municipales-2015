@@ -1,3 +1,5 @@
+**AVISO:** Esto está un poco manga por hombro, se hizo contrareloj y tomando bastantes atajos.
+
 Ficheros auxiliares:
 
 * `pobmun14.csv`: padrón municipal a 1 de Enero de 2014. Generado a partir del [fichero XLS del INE](http://www.ine.es/dynt3/inebase/es/index.html?padre=517&dh=1), enriquecido con el código de comunidad autónoma.
