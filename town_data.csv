@@ -141,7 +141,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 03053,17,03,053,Castalla,10143,7684,5567,135,65,100,Datos de las 23:27 del 24 de Mayo de 2015
 03054,17,03,054,Castell de Castells,442,377,333,0,2,100,Datos de las 21:27 del 24 de Mayo de 2015
 03075,17,03,075,"Castell de Guadalest, el",226,171,142,8,5,100,Datos de las 21:27 del 24 de Mayo de 2015
-03055,17,03,055,Catral,8663,5499,3877,87,47,100,Datos de las 22:54 del 24 de Mayo de 2015
+03055,17,03,055,Catral,8663,5499,4104,90,51,100,Datos de las 16:56 del 25 de Mayo de 2015
 03056,17,03,056,Cocentaina,11519,8924,6310,186,89,100,Datos de las 22:39 del 24 de Mayo de 2015
 03057,17,03,057,Confrides,232,212,172,11,5,100,Datos de las 21:36 del 24 de Mayo de 2015
 03058,17,03,058,Cox,7188,4947,3998,49,42,100,Datos de las 22:15 del 24 de Mayo de 2015
@@ -374,7 +374,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 01054,14,01,054,Urkabustaiz,1278,969,729,4,19,100,Datos de las 22:09 del 24 de Mayo de 2015
 01055,14,01,055,Valdegovía/Gaubea,1038,847,595,9,15,100,Datos de las 22:21 del 24 de Mayo de 2015
 01057,14,01,057,Villabuena de Álava/Eskuernaga,312,248,227,3,1,100,Datos de las 21:39 del 24 de Mayo de 2015
-01059,14,01,059,Vitoria-Gasteiz,242082,186418,120711,1569,1474,"99,43",Datos de las 22:39 del 24 de Mayo de 2015
+01059,14,01,059,Vitoria-Gasteiz,242082,187495,121413,1576,1485,100,Datos de las 16:56 del 25 de Mayo de 2015
 01060,14,01,060,Yécora/Iekora,258,212,172,2,4,100,Datos de las 20:57 del 24 de Mayo de 2015
 01061,14,01,061,Zalduondo,185,159,141,3,4,100,Datos de las 21:36 del 24 de Mayo de 2015
 01062,14,01,062,Zambrana,417,329,255,6,6,100,Datos de las 20:57 del 24 de Mayo de 2015
@@ -383,7 +383,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 33001,03,33,001,Allande,1858,1653,1251,17,12,100,Datos de las 23:03 del 24 de Mayo de 2015
 33002,03,33,002,Aller,11768,10263,6523,87,110,100,Datos de las 21:54 del 24 de Mayo de 2015
 33003,03,33,003,Amieva,758,661,468,10,6,100,Datos de las 21:36 del 24 de Mayo de 2015
-33004,03,33,004,Avilés,81659,64728,39451,517,832,"95,45",Datos de las 22:39 del 24 de Mayo de 2015
+33004,03,33,004,Avilés,81659,67815,41375,536,871,100,Datos de las 16:56 del 25 de Mayo de 2015
 33005,03,33,005,Belmonte de Miranda,1653,1511,1090,22,17,100,Datos de las 23:57 del 24 de Mayo de 2015
 33006,03,33,006,Bimenes,1777,1588,1132,14,17,100,Datos de las 21:36 del 24 de Mayo de 2015
 33007,03,33,007,Boal,1709,1549,1074,15,17,100,Datos de las 21:36 del 24 de Mayo de 2015
@@ -789,7 +789,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 06080,10,06,080,Medellín,2321,1926,1509,35,21,100,Datos de las 21:42 del 24 de Mayo de 2015
 06081,10,06,081,Medina de las Torres,1287,1094,845,41,18,100,Datos de las 22:39 del 24 de Mayo de 2015
 06082,10,06,082,Mengabril,479,373,349,0,6,100,Datos de las 22:03 del 24 de Mayo de 2015
-06083,10,06,083,Mérida,58985,43712,28791,535,696,"95,11",Datos de las 0:39 del 25 de Mayo de 2015
+06083,10,06,083,Mérida,58985,45959,30378,568,738,100,Datos de las 16:56 del 25 de Mayo de 2015
 06084,10,06,084,Mirandilla,1357,1112,991,31,7,100,Datos de las 21:27 del 24 de Mayo de 2015
 06085,10,06,085,Monesterio,4345,3444,2435,88,81,100,Datos de las 21:48 del 24 de Mayo de 2015
 06086,10,06,086,Montemolín,1467,1248,977,13,5,100,Datos de las 22:27 del 24 de Mayo de 2015
@@ -908,7 +908,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 07034,04,07,034,Mancor de la Vall,1309,990,869,14,9,100,Datos de las 21:48 del 24 de Mayo de 2015
 07032,04,07,032,Maó-Mahón,28460,20240,12027,158,246,100,Datos de las 0:03 del 25 de Mayo de 2015
 07035,04,07,035,Maria de la Salut,2114,1550,1316,17,16,100,Datos de las 23:51 del 24 de Mayo de 2015
-07036,04,07,036,Marratxí,35521,26521,16733,272,401,"98,33",Datos de las 22:27 del 24 de Mayo de 2015
+07036,04,07,036,Marratxí,35521,26971,17003,275,409,100,Datos de las 16:56 del 25 de Mayo de 2015
 07037,04,07,037,"Mercadal, Es",5176,3327,1860,25,46,100,Datos de las 22:00 del 24 de Mayo de 2015
 07902,04,07,902,"Migjorn Gran, Es",1470,1098,814,59,39,100,Datos de las 21:42 del 24 de Mayo de 2015
 07038,04,07,038,Montuïri,2888,2047,1731,22,9,100,Datos de las 22:09 del 24 de Mayo de 2015
@@ -952,7 +952,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 08011,09,08,011,Avià,2258,1753,1202,5,29,100,Datos de las 21:33 del 24 de Mayo de 2015
 08012,09,08,012,Avinyó,2275,1697,1241,11,50,100,Datos de las 21:30 del 24 de Mayo de 2015
 08013,09,08,013,Avinyonet del Penedès,1675,1236,857,12,23,100,Datos de las 21:48 del 24 de Mayo de 2015
-08015,09,08,015,Badalona,217210,143688,82416,472,1116,"92,00",Datos de las 22:03 del 24 de Mayo de 2015
+08015,09,08,015,Badalona,217210,156189,89851,513,1198,100,Datos de las 16:56 del 25 de Mayo de 2015
 08904,09,08,904,Badia del Vallès,13553,10598,5579,21,84,100,Datos de las 22:03 del 24 de Mayo de 2015
 08016,09,08,016,Bagà,2225,1851,1260,38,34,100,Datos de las 22:13 del 24 de Mayo de 2015
 08017,09,08,017,Balenyà,3724,2794,1688,4,21,100,Datos de las 22:25 del 24 de Mayo de 2015
@@ -1408,7 +1408,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 09056,08,09,056,Briviesca,7276,5035,3201,65,58,100,Datos de las 22:39 del 24 de Mayo de 2015
 09057,08,09,057,Bugedo,181,142,92,8,6,100,Datos de las 22:13 del 24 de Mayo de 2015
 09058,08,09,058,Buniel,511,382,255,9,12,100,Datos de las 21:36 del 24 de Mayo de 2015
-09059,08,09,059,Burgos,177776,127068,84657,1556,1874,"92,53",Datos de las 22:48 del 24 de Mayo de 2015
+09059,08,09,059,Burgos,177776,137327,91339,1683,2013,100,Datos de las 16:56 del 25 de Mayo de 2015
 09060,08,09,060,Busto de Bureba,175,152,129,2,1,100,Datos de las 21:48 del 24 de Mayo de 2015
 09062,08,09,062,Cabezón de la Sierra,48,65,49,0,0,100,Datos de las 20:54 del 24 de Mayo de 2015
 09064,08,09,064,Caleruega,490,352,303,1,4,100,Datos de las 22:43 del 24 de Mayo de 2015
@@ -2068,7 +2068,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 39080,06,39,080,San Vicente de la Barquera,4314,3587,2651,75,51,100,Datos de las 22:21 del 24 de Mayo de 2015
 39073,06,39,073,Santa Cruz de Bezana,12500,9847,6564,130,116,100,Datos de las 23:39 del 24 de Mayo de 2015
 39074,06,39,074,Santa María de Cayón,9097,7080,5364,150,71,100,Datos de las 1:21 del 25 de Mayo de 2015
-39075,06,39,075,Santander,175736,128947,82847,1024,1292,"92,62",Datos de las 23:09 del 24 de Mayo de 2015
+39075,06,39,075,Santander,175736,139216,89527,1114,1381,100,Datos de las 16:56 del 25 de Mayo de 2015
 39076,06,39,076,Santillana del Mar,4197,3512,2613,73,88,100,Datos de las 22:21 del 24 de Mayo de 2015
 39077,06,39,077,Santiurde de Reinosa,285,253,209,1,0,100,Datos de las 23:09 del 24 de Mayo de 2015
 39078,06,39,078,Santiurde de Toranzo,1581,1429,1226,20,16,100,Datos de las 22:14 del 24 de Mayo de 2015
@@ -2436,7 +2436,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 15027,11,15,027,Coirós,1747,1546,1168,30,40,100,Datos de las 21:42 del 24 de Mayo de 2015
 15028,11,15,028,Corcubión,1672,1455,1137,35,27,100,Datos de las 22:21 del 24 de Mayo de 2015
 15029,11,15,029,Coristanco,6706,5846,4432,58,37,100,Datos de las 21:39 del 24 de Mayo de 2015
-15030,11,15,030,"Coruña, A",244810,189633,113925,1354,2338,"94,39",Datos de las 22:43 del 24 de Mayo de 2015
+15030,11,15,030,"Coruña, A",244810,200907,120691,1440,2486,100,Datos de las 16:56 del 25 de Mayo de 2015
 15031,11,15,031,Culleredo,29434,23343,13514,252,368,100,Datos de las 21:54 del 24 de Mayo de 2015
 15032,11,15,032,Curtis,4048,3495,2670,66,32,100,Datos de las 22:21 del 24 de Mayo de 2015
 15033,11,15,033,Dodro,2913,2529,2001,22,17,100,Datos de las 22:06 del 24 de Mayo de 2015
@@ -3682,7 +3682,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 22122,02,22,122,Hoz de Jaca,73,61,52,0,9,100,Datos de las 20:24 del 24 de Mayo de 2015
 22908,02,22,908,Hoz y Costean,237,216,163,1,2,100,Datos de las 21:18 del 24 de Mayo de 2015
 22124,02,22,124,Huerto,242,211,147,5,7,100,Datos de las 22:48 del 24 de Mayo de 2015
-22125,02,22,125,Huesca,52555,32556,20891,324,504,"83,36",Datos de las 22:13 del 24 de Mayo de 2015
+22125,02,22,125,Huesca,52555,39055,24897,397,585,100,Datos de las 16:56 del 25 de Mayo de 2015
 22126,02,22,126,Ibieca,119,91,61,3,2,100,Datos de las 20:54 del 24 de Mayo de 2015
 22127,02,22,127,Igriés,700,498,347,8,17,100,Datos de las 21:45 del 24 de Mayo de 2015
 22128,02,22,128,Ilche,214,189,161,3,1,100,Datos de las 21:30 del 24 de Mayo de 2015
@@ -3716,8 +3716,11 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 22170,02,22,170,Panticosa,757,652,497,10,10,100,Datos de las 22:22 del 24 de Mayo de 2015
 22172,02,22,172,Peñalba,691,581,497,6,1,100,Datos de las 21:36 del 24 de Mayo de 2015
 22173,02,22,173,"Peñas de Riglos, Las",267,240,171,4,5,100,Datos de las 21:21 del 24 de Mayo de 2015
+22174,02,22,174,Peralta de Alcofea,582,501,412,6,12,100,Datos de las 21:39 del 24 de Mayo de 2015
 22175,02,22,175,Peralta de Calasanz,240,202,155,4,3,100,Datos de las 21:03 del 24 de Mayo de 2015
+22176,02,22,176,Peraltilla,206,175,146,4,4,100,Datos de las 21:21 del 24 de Mayo de 2015
 22177,02,22,177,Perarrúa,113,99,82,4,2,100,Datos de las 21:51 del 24 de Mayo de 2015
+22178,02,22,178,Pertusa,121,110,102,1,1,100,Datos de las 21:12 del 24 de Mayo de 2015
 22181,02,22,181,Piracés,106,95,58,0,1,100,Datos de las 20:48 del 24 de Mayo de 2015
 22182,02,22,182,Plan,314,258,188,15,40,100,Datos de las 22:36 del 24 de Mayo de 2015
 22184,02,22,184,Poleñino,216,196,175,2,5,100,Datos de las 22:09 del 24 de Mayo de 2015
@@ -3763,6 +3766,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 22232,02,22,232,Torralba de Aragón,113,98,66,1,2,100,Datos de las 20:51 del 24 de Mayo de 2015
 22233,02,22,233,Torre la Ribera,106,88,67,2,0,100,Datos de las 21:27 del 24 de Mayo de 2015
 22234,02,22,234,Torrente de Cinca,1205,824,531,77,92,100,Datos de las 21:21 del 24 de Mayo de 2015
+22235,02,22,235,Torres de Alcanadre,103,104,89,0,0,100,Datos de las 21:00 del 24 de Mayo de 2015
 22236,02,22,236,Torres de Barbués,293,257,226,1,2,100,Datos de las 22:00 del 24 de Mayo de 2015
 22239,02,22,239,Tramaced,97,92,82,1,0,100,Datos de las 21:36 del 24 de Mayo de 2015
 22242,02,22,242,Valfarta,73,65,48,5,1,100,Datos de las 21:21 del 24 de Mayo de 2015
@@ -3826,7 +3830,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 23047,01,23,047,"Iruela, La",2045,1668,1291,25,22,100,Datos de las 22:25 del 24 de Mayo de 2015
 23048,01,23,048,Iznatoraf,1038,872,663,16,3,100,Datos de las 21:30 del 24 de Mayo de 2015
 23049,01,23,049,Jabalquinto,2250,1868,1660,14,24,100,Datos de las 22:31 del 24 de Mayo de 2015
-23050,01,23,050,Jaén,115837,89893,54708,584,864,"98,31",Datos de las 22:31 del 24 de Mayo de 2015
+23050,01,23,050,Jaén,115837,91438,55650,599,875,100,Datos de las 16:56 del 25 de Mayo de 2015
 23051,01,23,051,Jamilena,3466,2773,2470,61,18,100,Datos de las 22:31 del 24 de Mayo de 2015
 23052,01,23,052,Jimena,1358,1148,1031,18,11,100,Datos de las 22:31 del 24 de Mayo de 2015
 23053,01,23,053,Jódar,12082,9527,7085,92,69,100,Datos de las 22:31 del 24 de Mayo de 2015
@@ -4099,7 +4103,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 25009,09,25,009,"Albi, L'",834,644,562,9,14,100,Datos de las 22:39 del 24 de Mayo de 2015
 25010,09,25,010,Alcanó,242,212,127,0,13,100,Datos de las 20:42 del 24 de Mayo de 2015
 25011,09,25,011,Alcarràs,9252,5452,2957,31,63,100,Datos de las 23:57 del 24 de Mayo de 2015
-25012,09,25,012,Alcoletge,3270,2389,1371,19,20,100,Datos de las 21:36 del 24 de Mayo de 2015
+25012,09,25,012,Alcoletge,3270,2389,1371,19,20,100,Datos de las 16:56 del 25 de Mayo de 2015
 25013,09,25,013,Alfarràs,3003,2207,1492,27,29,100,Datos de las 23:15 del 24 de Mayo de 2015
 25014,09,25,014,Alfés,315,263,217,1,9,100,Datos de las 20:48 del 24 de Mayo de 2015
 25015,09,25,015,Algerri,423,362,297,2,0,100,Datos de las 21:39 del 24 de Mayo de 2015
@@ -4187,7 +4191,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 25110,09,25,110,Guissona,6827,2937,1740,62,73,100,Datos de las 21:36 del 24 de Mayo de 2015
 25111,09,25,111,Guixers,128,116,106,1,2,100,Datos de las 21:39 del 24 de Mayo de 2015
 25115,09,25,115,Isona i Conca Dellà,1049,849,600,9,31,100,Datos de las 21:27 del 24 de Mayo de 2015
-25112,09,25,112,Ivars de Noguera,350,278,0,0,0,100,Datos de las 0:12 del 25 de Mayo de 2015
+25112,09,25,112,Ivars de Noguera,350,278,249,5,9,100,Datos de las 16:56 del 25 de Mayo de 2015
 25113,09,25,113,Ivars d'Urgell,1607,1177,896,17,22,100,Datos de las 21:48 del 24 de Mayo de 2015
 25114,09,25,114,Ivorra,115,97,77,5,7,100,Datos de las 23:06 del 24 de Mayo de 2015
 25910,09,25,910,Josa i Tuixén,128,111,66,4,11,100,Datos de las 20:57 del 24 de Mayo de 2015
@@ -4195,7 +4199,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 25119,09,25,119,Juneda,3497,2325,1655,33,42,100,Datos de las 21:39 del 24 de Mayo de 2015
 25121,09,25,121,Les,968,698,542,1,8,100,Datos de las 21:09 del 24 de Mayo de 2015
 25122,09,25,122,Linyola,2677,1937,1321,35,71,100,Datos de las 21:21 del 24 de Mayo de 2015
-25123,09,25,123,Lladorre,232,199,0,0,0,100,Datos de las 0:09 del 25 de Mayo de 2015
+25123,09,25,123,Lladorre,232,199,155,2,13,100,Datos de las 16:56 del 25 de Mayo de 2015
 25124,09,25,124,Lladurs,195,167,133,1,2,100,Datos de las 21:18 del 24 de Mayo de 2015
 25125,09,25,125,Llardecans,497,429,277,11,20,100,Datos de las 20:39 del 24 de Mayo de 2015
 25126,09,25,126,Llavorsí,367,288,249,8,2,100,Datos de las 22:29 del 24 de Mayo de 2015
@@ -4390,7 +4394,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 28003,12,28,003,Alameda del Valle,224,188,155,5,8,100,Datos de las 21:30 del 24 de Mayo de 2015
 28004,12,28,004,"Álamo, El",8929,6286,3996,156,109,100,Datos de las 23:51 del 24 de Mayo de 2015
 28005,12,28,005,Alcalá de Henares,200768,137372,90687,1048,1201,100,Datos de las 23:18 del 24 de Mayo de 2015
-28006,12,28,006,Alcobendas,112188,71991,48635,512,748,"91,04",Datos de las 22:36 del 24 de Mayo de 2015
+28006,12,28,006,Alcobendas,112188,79077,53389,568,802,100,Datos de las 16:56 del 25 de Mayo de 2015
 28007,12,28,007,Alcorcón,170336,125107,87510,1055,1137,100,Datos de las 23:45 del 24 de Mayo de 2015
 28008,12,28,008,Aldea del Fresno,2528,1813,1283,34,32,100,Datos de las 22:25 del 24 de Mayo de 2015
 28009,12,28,009,Algete,20102,14351,9675,110,174,100,Datos de las 23:06 del 24 de Mayo de 2015
@@ -4692,7 +4696,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 30024,15,30,024,Lorca,91759,58212,36769,631,551,"98,47",Datos de las 0:36 del 25 de Mayo de 2015
 30025,15,30,025,Lorquí,6948,4953,3646,80,63,100,Datos de las 22:31 del 24 de Mayo de 2015
 30026,15,30,026,Mazarrón,32718,19677,11775,299,159,100,Datos de las 0:33 del 25 de Mayo de 2015
-30027,15,30,027,Molina de Segura,68775,45411,29196,473,459,"94,56",Datos de las 22:06 del 24 de Mayo de 2015
+30027,15,30,027,Molina de Segura,68775,48025,30901,501,496,100,Datos de las 16:56 del 25 de Mayo de 2015
 30028,15,30,028,Moratalla,8219,6748,4966,136,94,100,Datos de las 23:51 del 24 de Mayo de 2015
 30029,15,30,029,Mula,17008,11956,7958,128,108,100,Datos de las 22:21 del 24 de Mayo de 2015
 30030,15,30,030,Murcia,439712,310863,203045,2907,3168,"99,09",Datos de las 0:18 del 25 de Mayo de 2015
@@ -4903,7 +4907,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 31198,13,31,198,Oronz/Orontze,46,36,29,2,4,100,Datos de las 20:48 del 24 de Mayo de 2015
 31211,13,31,211,Orreaga/Roncesvalles,33,25,21,0,0,100,Datos de las 20:33 del 24 de Mayo de 2015
 31200,13,31,200,Oteiza,944,761,609,23,29,100,Datos de las 21:30 del 24 de Mayo de 2015
-31201,13,31,201,Pamplona/Iruña,196166,143748,99971,739,1624,"96,97",Datos de las 23:30 del 24 de Mayo de 2015
+31201,13,31,201,Pamplona/Iruña,196166,147833,102916,775,1674,"99,72",Datos de las 16:56 del 25 de Mayo de 2015
 31202,13,31,202,Peralta/Azkoien,5889,4345,3228,58,60,100,Datos de las 22:57 del 24 de Mayo de 2015
 31203,13,31,203,Petilla de Aragón,35,39,33,3,14,100,Datos de las 20:57 del 24 de Mayo de 2015
 31204,13,31,204,Piedramillera,43,38,32,2,5,100,Datos de las 20:42 del 24 de Mayo de 2015
@@ -5275,7 +5279,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 35032,05,35,032,Valleseco,3886,3448,2723,49,27,100,Datos de las 22:06 del 24 de Mayo de 2015
 35031,05,35,031,Valsequillo de Gran Canaria,9233,7281,5486,90,72,100,Datos de las 23:15 del 24 de Mayo de 2015
 35033,05,35,033,Vega de San Mateo,7698,6407,4882,76,52,100,Datos de las 22:39 del 24 de Mayo de 2015
-35034,05,35,034,Yaiza,15068,7480,3923,65,66,"93,30",Datos de las 0:30 del 25 de Mayo de 2015
+35034,05,35,034,Yaiza,15068,7480,3923,65,66,"93,30",Datos de las 3:09 del 25 de Mayo de 2015
 36020,11,36,020,Agolada,2651,2395,1718,66,48,100,Datos de las 21:36 del 24 de Mayo de 2015
 36001,11,36,001,Arbo,2904,2670,2191,14,13,100,Datos de las 22:22 del 24 de Mayo de 2015
 36003,11,36,003,Baiona,12233,10045,6227,174,162,100,Datos de las 22:13 del 24 de Mayo de 2015
@@ -5884,7 +5888,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 38008,05,38,008,Breña Alta,7293,5667,3977,94,61,100,Datos de las 23:21 del 24 de Mayo de 2015
 38009,05,38,009,Breña Baja,5366,4165,2803,69,88,100,Datos de las 22:57 del 24 de Mayo de 2015
 38010,05,38,010,Buenavista del Norte,4884,4060,2985,42,51,100,Datos de las 21:54 del 24 de Mayo de 2015
-38011,05,38,011,Candelaria,26543,18607,11231,175,170,"90,70",Datos de las 23:54 del 24 de Mayo de 2015
+38011,05,38,011,Candelaria,26543,20514,12554,194,190,100,Datos de las 15:56 del 25 de Mayo de 2015
 38012,05,38,012,Fasnia,2846,2416,1915,19,12,100,Datos de las 22:27 del 24 de Mayo de 2015
 38013,05,38,013,Frontera,3901,2999,2210,39,22,100,Datos de las 22:57 del 24 de Mayo de 2015
 38014,05,38,014,Fuencaliente de la Palma,1745,1433,1145,11,6,100,Datos de las 0:42 del 25 de Mayo de 2015
@@ -5968,6 +5972,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 40043,08,40,043,Carbonero el Mayor,2577,1915,1466,39,31,100,Datos de las 21:21 del 24 de Mayo de 2015
 40044,08,40,044,Carrascal del Río,162,139,117,3,2,100,Datos de las 21:12 del 24 de Mayo de 2015
 40045,08,40,045,Casla,167,114,90,4,1,100,Datos de las 21:18 del 24 de Mayo de 2015
+40046,08,40,046,Castillejo de Mesleón,150,94,73,5,1,100,Datos de las 21:24 del 24 de Mayo de 2015
 40047,08,40,047,Castro de Fuentidueña,40,31,24,1,0,100,Datos de las 20:42 del 24 de Mayo de 2015
 40048,08,40,048,Castrojimeno,37,38,29,1,0,100,Datos de las 21:09 del 24 de Mayo de 2015
 40049,08,40,049,Castroserna de Abajo,53,74,68,0,0,100,Datos de las 20:30 del 24 de Mayo de 2015
@@ -5976,16 +5981,20 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 40053,08,40,053,Cerezo de Abajo,145,94,74,3,0,100,Datos de las 20:54 del 24 de Mayo de 2015
 40054,08,40,054,Cerezo de Arriba,161,115,99,4,2,100,Datos de las 21:12 del 24 de Mayo de 2015
 40065,08,40,065,Chañe,904,514,412,25,7,100,Datos de las 21:54 del 24 de Mayo de 2015
+40055,08,40,055,Cilleruelo de San Mamés,41,36,28,0,1,100,Datos de las 20:24 del 24 de Mayo de 2015
 40056,08,40,056,Cobos de Fuentidueña,39,38,29,0,0,100,Datos de las 20:42 del 24 de Mayo de 2015
 40057,08,40,057,Coca,1943,1530,1320,14,7,100,Datos de las 21:27 del 24 de Mayo de 2015
 40058,08,40,058,Codorniz,362,338,294,2,11,100,Datos de las 22:54 del 24 de Mayo de 2015
+40059,08,40,059,Collado Hermoso,153,119,91,5,10,100,Datos de las 21:09 del 24 de Mayo de 2015
 40060,08,40,060,Condado de Castilnovo,86,81,55,4,4,100,Datos de las 21:42 del 24 de Mayo de 2015
+40061,08,40,061,Corral de Ayllón,94,72,53,4,3,100,Datos de las 20:27 del 24 de Mayo de 2015
 40902,08,40,902,Cozuelos de Fuentidueña,136,126,100,8,8,100,Datos de las 20:51 del 24 de Mayo de 2015
 40062,08,40,062,Cubillo,69,61,55,1,0,100,Datos de las 22:43 del 24 de Mayo de 2015
 40063,08,40,063,Cuéllar,9547,7222,4857,154,96,100,Datos de las 22:13 del 24 de Mayo de 2015
 40905,08,40,905,Cuevas de Provanco,142,134,86,2,2,100,Datos de las 20:48 del 24 de Mayo de 2015
 40068,08,40,068,Domingo García,32,25,23,0,0,100,Datos de las 20:21 del 24 de Mayo de 2015
 40069,08,40,069,Donhierro,105,86,74,2,1,100,Datos de las 20:39 del 24 de Mayo de 2015
+40070,08,40,070,Duruelo,166,154,110,3,8,100,Datos de las 21:18 del 24 de Mayo de 2015
 40071,08,40,071,Encinas,52,48,39,2,2,100,Datos de las 20:39 del 24 de Mayo de 2015
 40072,08,40,072,Encinillas,242,199,162,1,5,100,Datos de las 21:24 del 24 de Mayo de 2015
 40073,08,40,073,Escalona del Prado,564,423,360,12,6,100,Datos de las 21:45 del 24 de Mayo de 2015
@@ -5997,6 +6006,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 40079,08,40,079,Fresno de Cantespino,267,236,173,7,12,100,Datos de las 21:03 del 24 de Mayo de 2015
 40080,08,40,080,Fresno de la Fuente,90,77,64,1,1,100,Datos de las 20:48 del 24 de Mayo de 2015
 40081,08,40,081,Frumales,136,126,90,11,4,100,Datos de las 20:45 del 24 de Mayo de 2015
+40082,08,40,082,Fuente de Santa Cruz,130,121,97,5,9,100,Datos de las 20:33 del 24 de Mayo de 2015
 40083,08,40,083,Fuente el Olmo de Fuentidueña,180,84,69,2,0,100,Datos de las 20:48 del 24 de Mayo de 2015
 40084,08,40,084,Fuente el Olmo de Íscar,71,63,51,1,4,100,Datos de las 20:33 del 24 de Mayo de 2015
 40086,08,40,086,Fuentepelayo,937,730,608,50,15,100,Datos de las 22:09 del 24 de Mayo de 2015
@@ -6224,7 +6234,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 41087,01,41,087,Sanlúcar la Mayor,13466,10181,6567,159,77,100,Datos de las 23:06 del 24 de Mayo de 2015
 41089,01,41,089,Santiponce,8439,6513,4110,99,116,100,Datos de las 22:00 del 24 de Mayo de 2015
 41090,01,41,090,"Saucejo, El",4407,3579,2910,88,25,100,Datos de las 22:43 del 24 de Mayo de 2015
-41091,01,41,091,Sevilla,696676,518215,308763,2388,3453,"95,03",Datos de las 23:57 del 24 de Mayo de 2015
+41091,01,41,091,Sevilla,696676,543944,323731,2525,3622,"99,75",Datos de las 16:56 del 25 de Mayo de 2015
 41092,01,41,092,Tocina,9685,7769,5239,40,45,100,Datos de las 22:03 del 24 de Mayo de 2015
 41093,01,41,093,Tomares,24501,18569,11583,88,139,100,Datos de las 22:31 del 24 de Mayo de 2015
 41094,01,41,094,Umbrete,8608,6287,4024,113,74,100,Datos de las 22:51 del 24 de Mayo de 2015
@@ -6571,7 +6581,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 43146,09,43,146,Senan,53,37,30,1,6,100,Datos de las 20:27 del 24 de Mayo de 2015
 43044,09,43,044,"Sénia, La",5893,4073,2798,50,85,100,Datos de las 21:54 del 24 de Mayo de 2015
 43147,09,43,147,Solivella,653,526,397,20,17,100,Datos de las 21:00 del 24 de Mayo de 2015
-43148,09,43,148,Tarragona,132199,86888,48825,345,547,"95,55",Datos de las 22:36 del 24 de Mayo de 2015
+43148,09,43,148,Tarragona,132199,90384,50904,353,568,"99,40",Datos de las 16:56 del 25 de Mayo de 2015
 43149,09,43,149,Tivenys,876,731,580,15,13,100,Datos de las 21:24 del 24 de Mayo de 2015
 43150,09,43,150,Tivissa,1760,1342,1113,53,26,100,Datos de las 22:43 del 24 de Mayo de 2015
 43151,09,43,151,"Torre de Fontaubella, La",126,112,91,1,0,100,Datos de las 20:48 del 24 de Mayo de 2015
@@ -7003,7 +7013,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 45162,07,45,162,Sevilleja de la Jara,762,705,589,8,8,100,Datos de las 21:39 del 24 de Mayo de 2015
 45163,07,45,163,Sonseca,11437,8348,5602,301,221,100,Datos de las 22:51 del 24 de Mayo de 2015
 45164,07,45,164,Sotillo de las Palomas,201,190,163,6,1,100,Datos de las 21:36 del 24 de Mayo de 2015
-45165,07,45,165,Talavera de la Reina,86779,58029,37315,672,565,"91,57",Datos de las 22:22 del 24 de Mayo de 2015
+45165,07,45,165,Talavera de la Reina,86779,63373,40912,734,633,100,Datos de las 16:56 del 25 de Mayo de 2015
 45166,07,45,166,Tembleque,2179,1670,1393,34,16,100,Datos de las 22:14 del 24 de Mayo de 2015
 45167,07,45,167,"Toboso, El",2039,1518,1273,34,14,100,Datos de las 22:31 del 24 de Mayo de 2015
 45168,07,45,168,Toledo,83334,62503,44964,711,744,100,Datos de las 23:42 del 24 de Mayo de 2015
@@ -7285,7 +7295,7 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 46241,17,46,241,Titaguas,502,412,321,29,19,100,Datos de las 21:33 del 24 de Mayo de 2015
 46242,17,46,242,Torrebaja,429,363,320,9,6,100,Datos de las 21:36 del 24 de Mayo de 2015
 46243,17,46,243,Torrella,158,148,132,3,0,100,Datos de las 21:48 del 24 de Mayo de 2015
-46244,17,46,244,Torrent,80551,57056,38688,322,415,"96,78",Datos de las 21:54 del 24 de Mayo de 2015
+46244,17,46,244,Torrent,80551,58955,40090,339,427,100,Datos de las 16:56 del 25 de Mayo de 2015
 46245,17,46,245,Torres Torres,630,521,438,8,11,100,Datos de las 22:13 del 24 de Mayo de 2015
 46246,17,46,246,Tous,1268,1083,949,68,15,100,Datos de las 23:48 del 24 de Mayo de 2015
 46247,17,46,247,Tuéjar,1157,974,800,37,22,100,Datos de las 22:06 del 24 de Mayo de 2015
@@ -8075,5 +8085,5 @@ ID,ID Region,ID Provincia,ID Municipio,Municipio,Población,Censo,Votos,Votos nu
 50296,02,50,296,"Zaida, La",481,396,313,0,5,100,Datos de las 21:24 del 24 de Mayo de 2015
 50297,02,50,297,Zaragoza,666058,502086,328893,3164,6144,100,Datos de las 23:24 del 24 de Mayo de 2015
 50298,02,50,298,Zuera,7742,5617,3978,88,116,100,Datos de las 22:09 del 24 de Mayo de 2015
-51001,18,51,001,Ceuta,84963,52706,26256,390,433,"88,71",Datos de las 23:18 del 24 de Mayo de 2015
-52001,19,52,001,Melilla,84509,48051,29212,364,273,"89,92",Datos de las 2:00 del 25 de Mayo de 2015
+51001,18,51,001,Ceuta,84963,59412,29611,434,468,100,Datos de las 16:56 del 25 de Mayo de 2015
+52001,19,52,001,Melilla,84509,53439,32299,398,314,100,Datos de las 16:56 del 25 de Mayo de 2015
