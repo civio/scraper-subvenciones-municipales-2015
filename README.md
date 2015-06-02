@@ -1,4 +1,4 @@
-**AVISO:** Esto está un poco manga por hombro, se hizo contrareloj y tomando bastantes atajos.
+**AVISO:** El código está un poco manga por hombro, se hizo contrareloj y tomando bastantes atajos. Pero los datos de los CSV son correctos.
 
 Artículo relacionado: [El PP pierde cinco millones de subvención pública para sufragar la campaña electoral](http://elboenuestrodecadadia.com/2015/05/25/el-pp-pierde-cinco-millones-de-subvencion-publica-para-sufragar-la-campana-electoral/).
 
